@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "/Users/qiqi/Documents/File/a-research/2020-ICLR/DRO-Package-Implementation/utils/logging.py", line 50, in <module>
+    5/a
+ZeroDivisionError: division by zero
+HELLssOssffuuuufs
+Traceback (most recent call last):
+  File "/Users/qiqi/Documents/File/a-research/2020-ICLR/DRO-Package-Implementation/utils/logging.py", line 50, in <module>
+    5/a
+ZeroDivisionError: division by zero
+HELLssOssffuuuufs
+Traceback (most recent call last):
+  File "/Users/qiqi/Documents/File/a-research/2020-ICLR/DRO-Package-Implementation/utils/logging.py", line 50, in <module>
+    5/a
+ZeroDivisionError: division by zero
+HELLssOssffuuuufs
+Traceback (most recent call last):
+  File "/Users/qiqi/Documents/File/a-research/2020-ICLR/DRO-Package-Implementation/utils/logging.py", line 50, in <module>
+    5/a
+ZeroDivisionError: division by zero
