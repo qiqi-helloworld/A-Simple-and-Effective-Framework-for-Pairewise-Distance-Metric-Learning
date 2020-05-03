@@ -3,11 +3,9 @@ Detailed implementation of the paper (A Simple and Effective Framework for Pairw
 
 # citation:
 
-@misc{qi2019simple,
-    title={A Simple and Effective Framework for Pairwise Deep Metric Learning},
-    author={Qi Qi and Yan Yan and Zixuan Wu and Xiaoyu Wang and Tianbao Yang},
-    year={2019},
-    eprint={1912.11194},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+@article{qi2019simple,
+  title={a simple and effective framework for pairwise deep metric learning},
+  author={Qi, Qi and Yan, Yan and Wu, Zixuan and Wang, Xiaoyu and Yang, Tianbao},
+  journal={arXiv preprint arXiv:1912.11194},
+  year={2019}
 }
